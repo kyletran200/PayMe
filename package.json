@@ -8,9 +8,15 @@
     "eject": "expo eject"
   },
   "dependencies": {
-    "braces": "^3.0.2",
+    "braces": "^2.3.2",
     "expo": "^34.0.1",
+    "expo-facebook": "^6.0.0",
+    "jest-haste-map": "^24.9.0",
     "mem": "^5.1.1",
+    "metro": "^0.56.0",
+    "metro-config": "^0.56.0",
+    "metro-core": "^0.56.0",
+    "micromatch": "^4.0.2",
     "react": "16.8.3",
     "react-dom": "^16.8.6",
     "react-native": "https://github.com/expo/react-native/archive/sdk-34.0.0.tar.gz",
